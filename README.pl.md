@@ -98,7 +98,7 @@ końcu łańcucha jest obowiązkowy.
 ![How it works](./assets/how-it-works.png)
 
 1. Po każdym pushu do gałęzi `main` repozytorium GitHub, uruchamia się specjalny
-   skrypt (GitHub Action) z pliku `.github/workflows/deploy.yml`.
+   skrypt (GitHub Action) z pliku `.github/workflows/deploy.yml`..
 2. Wszystkie pliki repozytorium kopiują się na serwer, gdzie projekt zostaje
    zainicjowany i przechodzi pracę lintera oraz zbudowanie przed deploymentem.
 3. Jeżeli wszystkie kroki zakończyły się sukcesem, zbudowana wersja produkcyjna
