@@ -1,6 +1,10 @@
 **Read in other languages: [rosyjski](README.md), [polski](README.pl.md).**
 
+<<<<<<< Updated upstream
 # React homework template
+=======
+# React homework template ,,..
+>>>>>>> Stashed changes
 
 Ten projekt został stworzony przy pomocy
 [Create React App](https://github.com/facebook/create-react-app). W celu
